@@ -1,0 +1,14 @@
+# Do not put any passwords in this file, as it will be synced to to git-repo!! Copy this file to the project-root in your local git-repo as databaseConnections.env and go ahead (no need for brackets '[]' or quotes '""')
+# If you do, you're responsible for cleaning the remote repo (including history)
+FHIRHOSE_INSTANCE=
+FHIRHOSE_DATABASE=
+FHIRHOSE_USER=
+FHIRHOSE_PASS=
+SOURCE1_INSTANCE=
+SOURCE1_DATABASE=
+SOURCE1_USER=
+SOURCE1_PASS=
+SOURCE2_INSTANCE=
+SOURCE2_DATABASE=
+SOURCE2_USER=
+SOURCE2_PASS=

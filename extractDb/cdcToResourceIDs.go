@@ -1,4 +1,4 @@
-package datatap
+package extractdb
 
 import (
     "database/sql"

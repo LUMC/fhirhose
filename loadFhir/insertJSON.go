@@ -1,4 +1,4 @@
-package fhirclient
+package loadfhir
 
 import (
     "database/sql"

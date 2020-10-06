@@ -1,4 +1,4 @@
-package fhirhose
+package datatap
 
 import (
     "database/sql"

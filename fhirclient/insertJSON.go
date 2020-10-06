@@ -1,4 +1,4 @@
-package fhirhose
+package fhirclient
 
 import (
     "database/sql"

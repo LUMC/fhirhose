@@ -1,4 +1,4 @@
-package cdc
+package fhirhose
 
 import (
     "database/sql"

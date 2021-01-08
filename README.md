@@ -7,7 +7,7 @@ This GO module consists of 4 packages:
 
 # Getting Started
 
-Should be used with a code-repository that contains queries and mappings for a specific care system and/or care provider 
+Should be used with a code-repository that contains queries and mappings for a specific care system and/or care provider.
 
 # Build and Test
 TODO (use Go test package https://golang.org/pkg/testing/ )

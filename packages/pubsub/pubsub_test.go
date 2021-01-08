@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"lab.weave.nl/lumc/fhir-hose/packages/pubsub/mocks"
+	"github.com/lumc/fhirhose/packages/pubsub/mocks"
 )
 
 func TestMockClient(t *testing.T) {
